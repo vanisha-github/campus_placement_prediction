@@ -155,7 +155,7 @@ This section presents visual outputs generated from different machine learning m
 ### LIME Explanation
 The following visualization shows the local explanation of an individual prediction using LIME.
 
-![LIME Explanation](images/limer.png)
+![LIME Explanation](images/limelr.png)
 
 ---
 
